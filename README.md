@@ -1,5 +1,4 @@
-# profile-readme
-# Hi 👋! My name is [YourName] and I'm a Web Developer.
+# Hi 👋! My name is Shivansh Mishra and I'm a Web Developer.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IMRTL08&show_icons=true&theme=radical" />
@@ -27,9 +26,12 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shivansh-mishra-08s/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://discordapp.com/users/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=for-the-badge" /></a>
+  <a href="https://github.com/IMRTL08"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+  <a href="https://instagram.com/shivansshmishra"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/profile/shivanshmishra_2"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" /></a>
 </p>
 
 ---
